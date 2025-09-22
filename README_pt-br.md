@@ -120,9 +120,9 @@ Se você curtir, deixe uma ⭐ para acompanhar o repositório!
 
 ### Caso 1: [Illustration to Figure](https://x.com/ZHO_ZHO_ZHO/status/1958539464994959715)（by [@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO)）
 
-| Entrada | Saída |
+| Input | Output |
 |:---:|:---:|
-| <img src="images/case1/input0.jpg" width="200" alt="Entrada Image"> | <img src="images/case1/output0.jpg" width="200" alt="Saída Result"> |
+| <img src="images/case1/input0.jpg" width="200" alt="Input Image"> | <img src="images/case1/output0.jpg" width="200" alt="Output Result"> |
 
 
 **entrada:** Need to upload a reference image as the object for generating the figure
@@ -136,11 +136,11 @@ turn this photo into a character figure. Behind it, place a box with the charact
 <!-- Case 2: Generate Ground View from Map Arrow (by @tokumin) -->
 ### Caso 2: [Generate Ground View from Map Arrow](https://x.com/tokumin/status/**1960583251460022626**)（by [@tokumin](https://x.com/tokumin)）
 
-| Entrada | Saída |
+| Input | Output |
 |:---:|:---:|
-| <img src="images/case2/input.jpg" width="300" alt="Entrada Image"> | <img src="images/case2/output.jpg" width="300" alt="Saída Result"> |
-| <img src="images/case2/input3.jpg" width="300" alt="Entrada Image"> | <img src="images/case2/output3.jpg" width="300" alt="Saída Result"> |
-| <img src="images/case2/input2.jpg" width="300" alt="Entrada Image"> | <img src="images/case2/output2.jpg" width="300" alt="Saída Result"> |
+| <img src="images/case2/input.jpg" width="300" alt="Input Image"> | <img src="images/case2/output.jpg" width="300" alt="Output Result"> |
+| <img src="images/case2/input3.jpg" width="300" alt="Input Image"> | <img src="images/case2/output3.jpg" width="300" alt="Output Result"> |
+| <img src="images/case2/input2.jpg" width="300" alt="Input Image"> | <img src="images/case2/output2.jpg" width="300" alt="Output Result"> |
 
 **entrada:** Need to upload a Google Maps image containing a red arrow
 
@@ -155,9 +155,9 @@ draw the real world view from the red circle in the direction of the arrow.
 <!-- Case 3: Real World AR Information (by @bilawalsidhu) -->
 ### Caso 3: [Real World AR Information](https://x.com/bilawalsidhu/status/1960529167742853378)（by [@bilawalsidhu](https://x.com/bilawalsidhu)）
 
-| Saída |
+| Output |
 |:---:|
-| <img src="images/case3/output.jpg" width="300" alt="Saída Result"> |
+| <img src="images/case3/output.jpg" width="300" alt="Output Result"> |
 
 **entrada:** Need to upload a reference image
 
@@ -173,10 +173,10 @@ you are a location-based AR experience generator. highlight [point of interest] 
 <!-- Case 4: Extract 3D Buildings/Make Isometric Models (by @Zieeett) -->
 ### Caso 4: [Extract 3D Buildings/Make Isometric Models](https://x.com/Zieeett/status/1960420874806247762)（by [@Zieeett](https://x.com/Zieeett)）
 
-| Entrada | Saída |
+| Input | Output |
 |:---:|:---:|
-| <img src="images/case4/input.jpg" width="300" alt="Entrada Image"> | <img src="images/case4/output.jpg" width="300" alt="Saída Result"> |
-| <img src="images/case4/input2.jpg" width="300" alt="Entrada Image"> | <img src="images/case4/output2.jpg" width="300" alt="Saída Result"> |
+| <img src="images/case4/input.jpg" width="300" alt="Input Image"> | <img src="images/case4/output.jpg" width="300" alt="Output Result"> |
+| <img src="images/case4/input2.jpg" width="300" alt="Input Image"> | <img src="images/case4/output2.jpg" width="300" alt="Output Result"> |
 
 **entrada:** Need to upload an image containing the corresponding object
 
@@ -192,9 +192,9 @@ Make Image Daytime and Isometric [Building Only]
 <!-- Case 5: Photos of Yourself in Different Eras (by @AmirMushich) -->
 ### Caso 5: [Photos of Yourself in Different Eras](https://x.com/AmirMushich/status/1960810850224091439)（by [@AmirMushich](https://x.com/AmirMushich)）
 
-| Entrada | Saída |
+| Input | Output |
 |:---:|:---:|
-| <img src="images/case5/input.jpg" width="300" alt="Entrada Image"> | <img src="images/case5/output.jpg" width="300" alt="Saída Result"> |
+| <img src="images/case5/input.jpg" width="300" alt="Input Image"> | <img src="images/case5/output.jpg" width="300" alt="Output Result"> |
 
 
 **entrada:** Need to upload a photo of a person
@@ -217,9 +217,9 @@ Don't change the character's face
 <!-- Case 6: Multi-Reference Image Generation (by @MrDavids1) -->
 ### Caso 6: [Multi-Reference Image Generation](https://x.com/MrDavids1/status/1960783672665128970)（by [@MrDavids1](https://x.com/MrDavids1)）
 
-| Entrada | Saída |
+| Input | Output |
 |:---:|:---:|
-| <img src="images/case6/input.jpg" width="300" alt="Entrada Image"> | <img src="images/case6/output.jpg" width="300" alt="Saída Result"> |
+| <img src="images/case6/input.jpg" width="300" alt="Input Image"> | <img src="images/case6/output.jpg" width="300" alt="Output Result"> |
 
 
 **entrada:** Need to upload multiple reference images
@@ -236,9 +236,9 @@ A model is posing and leaning against a pink bmw. She is wearing the following i
 <!-- Case 7: Automatic Photo Editing (by @op7418) -->
 ### Caso 7: [Automatic Photo Editing](https://x.com/op7418/status/1960528616573558864)（by [@op7418](https://x.com/op7418)）
 
-| Entrada | Saída |
+| Input | Output |
 |:---:|:---:|
-| <img src="images/case7/input.jpg" width="300" alt="Entrada Image"> | <img src="images/case7/output.jpg" width="300" alt="Saída Result"> |
+| <img src="images/case7/input.jpg" width="300" alt="Input Image"> | <img src="images/case7/output.jpg" width="300" alt="Output Result"> |
 
 
 **entrada:** Need to upload an image that needs correction
@@ -252,9 +252,9 @@ This photo is very boring and plain. Enhance it! Increase the contrast, boost th
 <!-- Case 8: Hand Drawing Controls Multi-Character Poses (by @op7418) -->
 ### Caso 8: [Hand Drawing Controls Multi-Character Poses](https://x.com/op7418/status/1960536717242573181)（by [@op7418](https://x.com/op7418)）
 
-| Entrada | Saída |
+| Input | Output |
 |:---:|:---:|
-| <img src="images/case8/input.jpg" width="300" alt="Entrada Image"> | <img src="images/case8/output.jpg" width="300" alt="Saída Result"> |
+| <img src="images/case8/input.jpg" width="300" alt="Input Image"> | <img src="images/case8/output.jpg" width="300" alt="Output Result"> |
 
 
 **entrada:** Need to upload character images and hand-drawn sketches
@@ -268,9 +268,9 @@ Have these two characters fight using the pose from Figure 3. Add appropriate vi
 <!-- Case 9: Cross-View Image Generation (by @op7418) -->
 ### Caso 9: [Cross-View Image Generation](https://x.com/op7418/status/1960896630586310656)（by [@op7418](https://x.com/op7418)）
 
-| Entrada | Saída |
+| Input | Output |
 |:---:|:---:|
-| <img src="images/case9/input.jpg" width="300" alt="Entrada Image"> | <img src="images/case9/output.jpg" width="300" alt="Saída Result"> |
+| <img src="images/case9/input.jpg" width="300" alt="Input Image"> | <img src="images/case9/output.jpg" width="300" alt="Output Result"> |
 
 
 **entrada:** Need to upload a photo taken from the ground
@@ -284,9 +284,9 @@ Convert the photo to a top-down view and mark the location of the photographer.
 <!-- Case 10: Custom Character Stickers (by @op7418) -->
 ### Caso 10: [Custom Character Stickers](https://x.com/op7418/status/1960385812132192509)（by [@op7418](https://x.com/op7418)）
 
-| Entrada | Saída |
+| Input | Output |
 |:---:|:---:|
-| <img src="images/case10/input.jpg" width="300" alt="Entrada Image"> | <img src="images/case10/output.jpg" width="300" alt="Saída Result"> |
+| <img src="images/case10/input.jpg" width="300" alt="Input Image"> | <img src="images/case10/output.jpg" width="300" alt="Output Result"> |
 
 
 **entrada:** Need to upload a sticker reference image and a character image
@@ -303,9 +303,9 @@ Help me turn the character into a white outline sticker similar to Figure 2. The
 
 ### Caso 11: [Anime to Real Coser](https://x.com/ZHO_ZHO_ZHO/status/1960946893971706306)（by [@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO)）
 
-| Entrada | Saída |
+| Input | Output |
 |:---:|:---:|
-| <img src="images/case11/input.jpg" width="300" alt="Entrada Image"> | <img src="images/case11/output.jpg" width="300" alt="Saída Result"> |
+| <img src="images/case11/input.jpg" width="300" alt="Input Image"> | <img src="images/case11/output.jpg" width="300" alt="Output Result"> |
 
 
 **entrada:** Need to upload an illustration image
@@ -319,9 +319,9 @@ Generate a photo of a girl cosplaying this illustration, with the background set
 <!-- Case 12: Generate Character Design (by @ZHO_ZHO_ZHO) -->
 ### Caso 12: [Generate Character Design](https://x.com/ZHO_ZHO_ZHO/status/1960669234276753542)（by [@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO)）
 
-| Entrada | Saída |
+| Input | Output |
 |:---:|:---:|
-| <img src="images/case12/input.jpg" width="300" alt="Entrada Image"> | <img src="images/case12/output.jpg" width="300" alt="Saída Result"> |
+| <img src="images/case12/input.jpg" width="300" alt="Input Image"> | <img src="images/case12/output.jpg" width="300" alt="Output Result"> |
 
 
 **entrada:** Need to upload a character reference image
@@ -345,9 +345,9 @@ Costume design (Costume Design)
 <!-- Case 13: Color Line Art with Color Palette (by @ZHO_ZHO_ZHO) -->
 ### Caso 13: [Color Line Art with Color Palette](https://x.com/ZHO_ZHO_ZHO/status/1960652077891510752)（by [@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO)）
 
-| Entrada | Saída |
+| Input | Output |
 |:---:|:---:|
-| <img src="images/case13/input.jpg" width="300" alt="Entrada Image"> | <img src="images/case13/output.jpg" width="300" alt="Saída Result"> |
+| <img src="images/case13/input.jpg" width="300" alt="Input Image"> | <img src="images/case13/output.jpg" width="300" alt="Output Result"> |
 
 
 **entrada:** Need to upload a line art image and a color palette image
@@ -361,9 +361,9 @@ Accurately use the color palette from Figure 2 to color the character in Figure 
 <!-- Case 14: Article Infographic (by @黄建同学) -->
 ### Caso 14: [Article Infographic](https://weibo.com/5648162302/5204549851155423?wm=3333_2001&from=10F8393010&sourcetype=weixin&s_trans=7836809604_5204549851155423&s_channel=4)（by [@黄建同学](https://weibo.com/u/5648162302)）
 
-| Saída |
+| Output |
 |:---:|
-| <img src="images/case14/output.jpg" width="300" alt="Saída Result"> |
+| <img src="images/case14/output.jpg" width="300" alt="Output Result"> |
 
 
 **entrada:** Need to upload a blog/article
@@ -382,9 +382,9 @@ Requirements:
 <!-- Case 15: Change Multiple Hairstyles (by @balconychy) -->
 ### Caso 15: [Change Multiple Hairstyles](https://x.com/balconychy/status/1960665038504779923)（by [@balconychy](https://x.com/balconychy)）
 
-| Saída |
+| Output |
 |:---:|
-| <img src="images/case15/output.jpg" width="300" alt="Saída Result"> |
+| <img src="images/case15/output.jpg" width="300" alt="Output Result"> |
 
 
 **entrada:** Need to upload a portrait image that needs hairstyle changes
@@ -398,9 +398,9 @@ Generate avatars of this person with different hairstyles in a 3x3 grid format
 <!-- Case 16: Model Annotation Explanation Diagram (by @berryxia_ai) -->
 ### Caso 16: [Model Annotation Explanation Diagram](https://x.com/berryxia_ai/status/1960708465586004305)（by [@berryxia_ai](https://x.com/berryxia_ai)）
 
-| Saída |
+| Output |
 |:---:|
-| <img src="images/case16/output.jpg" width="300" alt="Saída Result"> |
+| <img src="images/case16/output.jpg" width="300" alt="Output Result"> |
 
 > [!CAUTION]
 > There are a considerable number of errors in the annotation results ⚠️. Please note that the Nano-Banana annotations are not entirely accurate, and you should carefully verify the correctness of the information before using it.
@@ -417,9 +417,9 @@ Draw [3D human organ model display example heart] for academic presentation, wit
 <!-- Case 17: Custom Marble Sculpture (by @umesh_ai) -->
 ### Caso 17: [Custom Marble Sculpture](https://x.com/umesh_ai/status/1960370946562564353)（by [@umesh_ai](https://x.com/umesh_ai)）
 
-| Saída |
+| Output |
 |:---:|
-| <img src="images/case17/output.jpg" width="300" alt="Saída Result"> |
+| <img src="images/case17/output.jpg" width="300" alt="Output Result"> |
 
 **input：** Need to upload a reference image
 
@@ -432,11 +432,11 @@ A photorealistic image of an ultra-detailed sculpture of the subject in image ma
 <!-- Case 18: Cook Based on Ingredients (by @Gdgtify) -->
 ### Caso 18: [Cook Based on Ingredients](https://x.com/Gdgtify/status/1960907695348691075)（by [@Gdgtify](https://x.com/Gdgtify)）
 
-| Entrada | Saída |
+| Input | Output |
 |:---:|:---:|
-| <img src="images/case18/input1.jpg" width="300" alt="Entrada Image"> | <img src="images/case18/output1.jpg" width="300" alt="Saída Result"> |
-| <img src="images/case18/input2.jpg" width="300" alt="Entrada Image"> | <img src="images/case18/output2.jpg" width="300" alt="Saída Result"> |
-| <img src="images/case18/input3.jpg" width="300" alt="Entrada Image"> | <img src="images/case18/output3.jpg" width="300" alt="Saída Result"> |
+| <img src="images/case18/input1.jpg" width="300" alt="Input Image"> | <img src="images/case18/output1.jpg" width="300" alt="Output Result"> |
+| <img src="images/case18/input2.jpg" width="300" alt="Input Image"> | <img src="images/case18/output2.jpg" width="300" alt="Output Result"> |
+| <img src="images/case18/input3.jpg" width="300" alt="Input Image"> | <img src="images/case18/output3.jpg" width="300" alt="Output Result"> |
 
 **entrada:** Need to upload a photo with various ingredients
 
@@ -449,9 +449,9 @@ make me a delicious lunch with these ingredients, and put it on a plate , zoomed
 <!-- Case 19: Math Problem Reasoning (by @Gorden Sun) -->
 ### Caso 19: [Math Problem Reasoning](https://www.xiaohongshu.com/explore/68ade0e7000000001d036677?note_flow_source=wechat&xsec_token=AB4tWI6xCrE2v5euckYXKCBlbQbA-YNoqI5iKKqqQwWpY=)（by [@Gorden Sun](https://www.xiaohongshu.com/user/profile/632e72f900000000230397fe?xsec_token=ABeSWJqqsTwTtj3KG1HSTt_vwRcODR4jDJnj2dp0k42YI%3D&xsec_source=pc_note)）
 
-| Entrada | Saída |
+| Input | Output |
 |:---:|:---:|
-| <img src="images/case19/input.jpg" width="300" alt="Entrada Image"> | <img src="images/case19/output.jpg" width="300" alt="Saída Result"> |
+| <img src="images/case19/input.jpg" width="300" alt="Input Image"> | <img src="images/case19/output.jpg" width="300" alt="Output Result"> |
 
 
 **entrada:** Need to upload a math problem
@@ -465,9 +465,9 @@ Write the answer to the problem in the corresponding position based on the quest
 <!-- Case 20: Old Photo Colorization (by @GeminiApp) -->
 ### Caso 20: [Old Photo Colorization](https://x.com/GeminiApp/status/1960347483021959197)（by [@GeminiApp](https://x.com/GeminiApp)）
 
-| Entrada | Saída |
+| Input | Output |
 |:---:|:---:|
-| <img src="images/case20/input.jpg" width="300" alt="Entrada Image"> | <img src="images/case20/output.jpg" width="300" alt="Saída Result"> |
+| <img src="images/case20/input.jpg" width="300" alt="Input Image"> | <img src="images/case20/output.jpg" width="300" alt="Output Result"> |
 
 
 **entrada:** Need to upload an old photo that needs restoration
@@ -484,9 +484,9 @@ restore and colorize this photo.
 
 ### Caso 21: [OOTD Outfit](https://medium.com/%40302.AI/google-nano-banana-vs-qwen-gpt-flux-topping-the-image-editing-leaderboard-96038b01bdcd)（by [@302.AI](https://medium.com/@302.AI)）
 
-| Entrada | Saída |
+| Input | Output |
 |:---:|:---:|
-| <img src="images/case21/input.jpg" width="300" alt="Entrada Image"> | <img src="images/case21/output.jpg" width="300" alt="Saída Result"> |
+| <img src="images/case21/input.jpg" width="300" alt="Input Image"> | <img src="images/case21/output.jpg" width="300" alt="Output Result"> |
 
 
 **entrada:** Need to upload a person image and clothing image
@@ -500,9 +500,9 @@ Choose the person in Image 1 and dress them in all the clothing and accessories 
 <!-- Case 22: Character Clothing Change (by @skirano) -->
 ### Caso 22: [Character Clothing Change](https://x.com/skirano/status/1960343968320737397)（by [@skirano](https://x.com/skirano)）
 
-| Entrada | Saída |
+| Input | Output |
 |:---:|:---:|
-| <img src="images/case22/input.jpg" width="300" alt="Entrada Image"> | <img src="images/case22/output.jpg" width="300" alt="Saída Result"> |
+| <img src="images/case22/input.jpg" width="300" alt="Input Image"> | <img src="images/case22/output.jpg" width="300" alt="Output Result"> |
 
 
 **entrada:** Need to upload person image and clothing image
@@ -516,9 +516,9 @@ Replace the person's clothing in the input image with the target clothing shown 
 <!-- Case 23: Multi-View Result Generation (by @Error_HTTP_404) -->
 ### Caso 23: [Multi-View Result Generation](https://x.com/Error_HTTP_404/status/1960405116701303294)（by [@Error_HTTP_404](https://x.com/Error_HTTP_404)）
 
-| Entrada | Saída |
+| Input | Output |
 |:---:|:---:|
-| <img src="images/case23/input.jpg" width="300" alt="Entrada Image"> | <img src="images/case23/output.jpg" width="300" alt="Saída Result"> |
+| <img src="images/case23/input.jpg" width="300" alt="Input Image"> | <img src="images/case23/output.jpg" width="300" alt="Output Result"> |
 
 
 **entrada:** Need to upload reference image
@@ -532,9 +532,9 @@ Generate the Front, Rear, Left, Right, Top, Bottom views on white. Evenly spaced
 <!-- Case 24: Movie Storyboard (by @GeminiApp) -->
 ### Caso 24: Movie Storyboard（by [@GeminiApp](@GeminiApp)）
 
-| Entrada | Saída |
+| Input | Output |
 |:---:|:---:|
-| <img src="images/case24/input.jpg" width="300" alt="Entrada Image"> | <img src="images/case24/output.jpg" width="300" alt="Saída Result"> |
+| <img src="images/case24/input.jpg" width="300" alt="Input Image"> | <img src="images/case24/output.jpg" width="300" alt="Output Result"> |
 
 
 **entrada:** Need to upload reference image
@@ -548,9 +548,9 @@ Create an addictively intriguing 12 part story with 12 images with these two cha
 <!-- Case 25: Character Pose Modification (by @arrakis_ai) -->
 ### Caso 25: [Character Pose Modification](https://x.com/arrakis_ai/status/1955901155726516652)（by [@arrakis_ai](https://x.com/arrakis_ai)）
 
-| Entrada | Saída |
+| Input | Output |
 |:---:|:---:|
-| <img src="images/case25/input.jpg" width="300" alt="Entrada Image"> | <img src="images/case25/output.jpg" width="300" alt="Saída Result"> |
+| <img src="images/case25/input.jpg" width="300" alt="Input Image"> | <img src="images/case25/output.jpg" width="300" alt="Output Result"> |
 
 
 **entrada:** Need to upload reference image
@@ -564,12 +564,12 @@ Have the person in the picture look straight ahead
 <!-- Case 26: Generate image from line drawing（by @ZHO_ZHO_ZHO） -->
 ### Caso 26: [Generate image from line drawing](https://x.com/ZHO_ZHO_ZHO/status/1961024423596872184)（by [@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO)）
 
-| Entrada | Saída |
+| Input | Output |
 |:---:|:---:|
-| <img src="images/case26/input.jpg" width="300" alt="Entrada Image"> | <img src="images/case26/output.jpg" width="300" alt="Saída Result"> |
+| <img src="images/case26/input.jpg" width="300" alt="Input Image"> | <img src="images/case26/output.jpg" width="300" alt="Output Result"> |
 
 
-**Entrada:** Need to upload line drawings and reference images
+**Input:** Need to upload line drawings and reference images
 
 **Prompt (em inglês):**
 
@@ -580,12 +580,12 @@ Change the pose of the person in Figure 1 to that of Figure 2, and shoot in a pr
 <!-- Case 27: Add Watermark to Image (by @AiMachete) -->
 ### Caso 27: [Add Watermark to Image](https://x.com/AiMachete/status/1963038793705128219)（by [@AiMachete](https://x.com/AiMachete)）
 
-| Entrada | Saída |
+| Input | Output |
 |:---:|:---:|
-| <img src="images/case27/input.jpg" width="300" alt="Entrada Image"> | <img src="images/case27/output.jpg" width="300" alt="Saída Result"> |
+| <img src="images/case27/input.jpg" width="300" alt="Input Image"> | <img src="images/case27/output.jpg" width="300" alt="Output Result"> |
 
 
-**Entrada:** Need to upload a reference image
+**Input:** Need to upload a reference image
 
 **Prompt (em inglês):**
 
@@ -596,10 +596,10 @@ Watermark the word ‘TRUMP’ over and over again across the whole image.
 <!-- Case 28: Knowledge Reasoning Image Generation (by @icreatelife) -->
 ### Caso 28: [Knowledge Reasoning Image Generation](https://x.com/icreatelife/status/1962998951948517428)（by [@icreatelife](https://x.com/icreatelife)）
 
-| Saída |
+| Output |
 |:---:|
-| <img src="images/case28/output.jpg" width="300" alt="Saída Result"> |
-| <img src="images/case28/output1.jpg" width="300" alt="Saída Result"> |
+| <img src="images/case28/output.jpg" width="300" alt="Output Result"> |
+| <img src="images/case28/output1.jpg" width="300" alt="Output Result"> |
 
 **Prompt (em inglês):**
 
@@ -610,11 +610,11 @@ Make me an infographic of 5 tallest buildings in the world / Make a colorful inf
 <!-- Case 29: Red Pen Annotations (by @AiMachete) -->
 ### Caso 29: [Red Pen Annotations](https://x.com/AiMachete/status/1962356993550643355)（by [@AiMachete](https://x.com/AiMachete)）
 
-| Entrada | Saída |
+| Input | Output |
 |:---:|:---:|
-| <img src="images/case29/input.jpg" width="300" alt="Entrada Image"> | <img src="images/case29/output.jpg" width="300" alt="Saída Result"> |
+| <img src="images/case29/input.jpg" width="300" alt="Input Image"> | <img src="images/case29/output.jpg" width="300" alt="Output Result"> |
 
-**Entrada:** Need to upload a reference image
+**Input:** Need to upload a reference image
 
 **Prompt (em inglês):**
 
@@ -625,12 +625,12 @@ Analyze this image. Use red pen to denote where you can improve.
 <!-- Case 30: Explosive Food (by @icreatelife) -->
 ### Caso 30: [Explosive Food](https://x.com/icreatelife/status/1962724040205803773)（by [@icreatelife](https://x.com/icreatelife)）
 
-| Saída |
+| Output |
 |:---:|
-| <img src="images/case30/output.jpg" width="300" alt="Saída Result"> |
-| <img src="images/case30/output1.jpg" width="300" alt="Saída Result"> |
+| <img src="images/case30/output.jpg" width="300" alt="Output Result"> |
+| <img src="images/case30/output1.jpg" width="300" alt="Output Result"> |
 
-**Entrada:** Need to upload a reference image
+**Input:** Need to upload a reference image
 
 **Prompt (em inglês):**
 
@@ -644,11 +644,11 @@ Photograph this product in a dramatic modern scene accompanied by explosive outw
 
 ### Caso 31: [Create Comic Book](https://x.com/icreatelife/status/1961977580849873169)（by [@icreatelife](https://x.com/icreatelife)）
 
-| Entrada | Saída |
+| Input | Output |
 |:---:|:---:|
-| <img src="images/case31/input.jpg" width="300" alt="Entrada Image"> | <img src="images/case31/output.jpg" width="300" alt="Saída Result"> |
+| <img src="images/case31/input.jpg" width="300" alt="Input Image"> | <img src="images/case31/output.jpg" width="300" alt="Output Result"> |
 
-**Entrada:** Need to upload a reference image
+**Input:** Need to upload a reference image
 
 **Prompt (em inglês):**
 
@@ -659,11 +659,11 @@ Based on the uploaded image, make a comic book strip, add text, write a compelli
 <!-- Case 32: Action Figure (by @icreatelife) -->
 ### Caso 32: [Action Figure](https://x.com/icreatelife/status/1961653618529935720)（by [@icreatelife](https://x.com/icreatelife)）
 
-| Entrada | Saída |
+| Input | Output |
 |:---:|:---:|
-| <img src="images/case32/input.jpg" width="300" alt="Entrada Image"> | <img src="images/case32/output.jpg" width="300" alt="Saída Result"> |
+| <img src="images/case32/input.jpg" width="300" alt="Input Image"> | <img src="images/case32/output.jpg" width="300" alt="Output Result"> |
 
-**Entrada:** Need to upload a reference image
+**Input:** Need to upload a reference image
 
 **Prompt (em inglês):**
 
@@ -678,11 +678,11 @@ make an action figure of me that says [“AI Evangelist - Kris”] and features 
 <!-- Case 33: Map to Isometric Buildings (by @demishassabis) -->
 ### Caso 33: [Map to Isometric Buildings](https://x.com/demishassabis/status/1961077016830083103)（by [@demishassabis](https://x.com/demishassabis)）
 
-| Entrada | Saída |
+| Input | Output |
 |:---:|:---:|
-| <img src="images/case33/input.jpg" width="300" alt="Entrada Image"> | <img src="images/case33/output.jpg" width="300" alt="Saída Result"> |
+| <img src="images/case33/input.jpg" width="300" alt="Input Image"> | <img src="images/case33/output.jpg" width="300" alt="Output Result"> |
 
-**Entrada:** Need to upload a map reference image
+**Input:** Need to upload a map reference image
 
 **Prompt (em inglês):**
 
@@ -695,10 +695,10 @@ Take this location and make the landmark an isometric image (building only), in 
 
 | Example |
 |:---:|
-| <img src="images/case34/case.jpg" width="300" alt="Saída Result"> |
+| <img src="images/case34/case.jpg" width="300" alt="Output Result"> |
 
 
-**Entrada:** Need to upload a character reference image and an expression reference image
+**Input:** Need to upload a character reference image and an expression reference image
 
 **Prompt (em inglês):**
 
@@ -711,10 +711,10 @@ Character reference from Image 1 / Change to the expression from Image 2
 
 | Example |
 |:---:|
-| <img src="images/case35/case.jpg" width="300" alt="Saída Result"> |
+| <img src="images/case35/case.jpg" width="300" alt="Output Result"> |
 
 
-**Entrada:** Need to upload a character reference image
+**Input:** Need to upload a character reference image
 
 **Prompt (em inglês):**
 
@@ -727,10 +727,10 @@ Generate a four-panel drawing process for the character: Step 1: Line art, Step 
 
 | Example |
 |:---:|
-| <img src="images/case36/case.jpg" width="300" alt="Saída Result"> |
+| <img src="images/case36/case.jpg" width="300" alt="Output Result"> |
 
 
-**Entrada:** Need to upload a character reference image and a makeup reference image
+**Input:** Need to upload a character reference image and a makeup reference image
 
 **Prompt (em inglês):**
 
@@ -741,12 +741,12 @@ Apply the makeup from Image 2 to the character in Image 1, while maintaining the
 <!-- Case 37: Makeup Analysis (by @ZHO_ZHO_ZHO) -->
 ### Caso 37: [Makeup Analysis](https://x.com/ZHO_ZHO_ZHO/status/1962784384693739621)（by [@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO)）
 
-| Entrada | Saída |
+| Input | Output |
 |:---:|:---:|
-| <img src="images/case37/input.jpg" width="300" alt="Entrada Image"> | <img src="images/case37/output.jpg" width="300" alt="Saída Result"> |
+| <img src="images/case37/input.jpg" width="300" alt="Input Image"> | <img src="images/case37/output.jpg" width="300" alt="Output Result"> |
 
 
-**Entrada:** Need to upload a character reference image
+**Input:** Need to upload a character reference image
 
 **Prompt (em inglês):**
 
@@ -758,9 +758,9 @@ Analyze this image. Use a red pen to denote where you can improve
 <!-- Case 38: Google Maps View of Middle-earth (by @TechHallo) -->
 ### Caso 38: [Google Maps View of Middle-earth](https://x.com/techhalla/status/1962292272227102941)（by [@TechHallo](https://x.com/techhalla)）
 
-| Saída |
+| Output |
 |:---:|
-| <img src="images/case38/output.jpg" width="300" alt="Saída Result"> |
+| <img src="images/case38/output.jpg" width="300" alt="Output Result"> |
 
 **Prompt (em inglês):**
 
@@ -774,9 +774,9 @@ Dashcam Google Street View shot | [Hobbiton Street] | [hobbits carrying out dail
 <!-- Case 39: Typographic Illustration Generation (by @Umesh) -->
 ### Caso 39: [Typographic Illustration Generation](https://x.com/umesh_ai/status/1961110485543371145)（by [@Umesh](https://x.com/umesh_ai)）
 
-| Saída |
+| Output |
 |:---:|
-| <img src="images/case39/output.jpg" width="300" alt="Saída Result"> |
+| <img src="images/case39/output.jpg" width="300" alt="Output Result"> |
 
 **Prompt (em inglês):**
 
@@ -793,10 +793,10 @@ Create a minimalist black-and-white typographic illustration of the scene riding
 
 | Example |
 |:---:|
-| <img src="images/case40/case.jpg" width="300" alt="Saída Result"> |
+| <img src="images/case40/case.jpg" width="300" alt="Output Result"> |
 
 
-**Entrada:** Need to upload a character reference image
+**Input:** Need to upload a character reference image
 
 **Prompt (em inglês):**
 
@@ -812,10 +812,10 @@ Please create a pose sheet for this illustration, making various poses!
 
 | Example |
 |:---:|
-| <img src="images/case41/case.jpg" width="300" alt="Saída Result"> |
+| <img src="images/case41/case.jpg" width="300" alt="Output Result"> |
 
 
-**Entrada:** Need to upload a product reference image and a packaging reference image
+**Input:** Need to upload a product reference image and a packaging reference image
 
 **Prompt (em inglês):**
 
@@ -828,10 +828,10 @@ Apply the design from Image 1 to the can in Image 2, and place it in a minimalis
 
 | Example |
 |:---:|
-| <img src="images/case42/case.jpg" width="300" alt="Saída Result"> |
+| <img src="images/case42/case.jpg" width="300" alt="Output Result"> |
 
 
-**Entrada:** Need to upload a reference image and a filter/material reference image
+**Input:** Need to upload a reference image and a filter/material reference image
 
 **Prompt (em inglês):**
 
@@ -847,10 +847,10 @@ Overlay the [glass] effect from Image 2 onto the photo in Image 1
 
 | Example |
 |:---:|
-| <img src="images/case43/case.jpg" width="300" alt="Saída Result"> |
+| <img src="images/case43/case.jpg" width="300" alt="Output Result"> |
 
 
-**Entrada:** Need to upload a reference image and a face shape reference image
+**Input:** Need to upload a reference image and a face shape reference image
 
 **Prompt (em inglês):**
 
@@ -863,10 +863,10 @@ Design the character from Image 1 as a chibi version according to the face shape
 
 | Example |
 |:---:|
-| <img src="images/case44/case.jpg" width="300" alt="Saída Result"> |
+| <img src="images/case44/case.jpg" width="300" alt="Output Result"> |
 
 
-**Entrada:** Need to upload a reference image and a lighting reference image
+**Input:** Need to upload a reference image and a lighting reference image
 
 **Prompt (em inglês):**
 
@@ -877,12 +877,12 @@ Change the character from Image 1 to the lighting from Image 2, with dark areas 
 <!-- Case 45: LEGO Minifigure (by @ZHO_ZHO_ZHO) -->
 ### Caso 45: [LEGO Minifigure](https://x.com/ZHO_ZHO_ZHO/status/1961395526198595771)（by [@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO)）
 
-| Entrada | Saída |
+| Input | Output |
 |:---:|:---:|
-| <img src="images/case45/input.jpg" width="300" alt="Entrada Image"> | <img src="images/case45/output.jpg" width="300" alt="Saída Result"> |
+| <img src="images/case45/input.jpg" width="300" alt="Input Image"> | <img src="images/case45/output.jpg" width="300" alt="Output Result"> |
 
 
-**Entrada:** Need to upload a reference image
+**Input:** Need to upload a reference image
 
 **Prompt (em inglês):**
 
@@ -893,12 +893,12 @@ Transform the person in the photo into a LEGO minifigure packaging box style, pr
 <!-- Case 46: Gundam Model Figure (by @ZHO_ZHO_ZHO) -->
 ### Caso 46: [Gundam Model Figure](https://x.com/ZHO_ZHO_ZHO/status/1961412823340265509)（by [@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO)）
 
-| Entrada | Saída |
+| Input | Output |
 |:---:|:---:|
-| <img src="images/case46/input.jpg" width="300" alt="Entrada Image"> | <img src="images/case46/output.jpg" width="300" alt="Saída Result"> |
+| <img src="images/case46/input.jpg" width="300" alt="Input Image"> | <img src="images/case46/output.jpg" width="300" alt="Output Result"> |
 
 
-**Entrada:** Need to upload a reference image
+**Input:** Need to upload a reference image
 
 **Prompt (em inglês):**
 
@@ -909,9 +909,9 @@ Transform the person in the photo into a Gundam model kit packaging box style, p
 <!-- Case 47: Hardware Exploded View (by @AIimagined) -->
 ### Caso 47: [Hardware Exploded View](https://x.com/AIimagined/status/1961431851245211958)（by [@AIimagined](https://x.com/AIimagined)）
 
-| Saída |
+| Output |
 |:---:|
-| <img src="images/case47/output.jpg" width="300" alt="Saída Result"> |
+| <img src="images/case47/output.jpg" width="300" alt="Output Result"> |
 
 **Prompt (em inglês):**
 
@@ -922,11 +922,11 @@ Exploded view of a DSLR showing all its accessories and internal components such
 <!-- Case 48: Food Calorie Annotation (by @icreatelife) -->
 ### Caso 48: [Food Calorie Annotation](https://x.com/icreatelife/status/1963646757222715516)（by [@icreatelife](https://x.com/icreatelife)）
 
-| Saída |
+| Output |
 |:---:|
-| <img src="images/case48/output.jpg" width="300" alt="Saída Result"> |
+| <img src="images/case48/output.jpg" width="300" alt="Output Result"> |
 
-**Entrada:** Need to upload a food reference image
+**Input:** Need to upload a food reference image
 
 **Prompt (em inglês):**
 
@@ -937,11 +937,11 @@ annotate this meal with names of food and calorie density and approximate calori
 <!-- Case 49: Extract Subject and Place on Transparent Layer (by @nglprz) -->
 ### Caso 49: [Extract Subject and Place on Transparent Layer](https://x.com/nglprz/status/1961494974555394068)（by [@nglprz](https://x.com/icreatelife)）
 
-| Entrada | Saída |
+| Input | Output |
 |:---:|:---:|
-| <img src="images/case49/input.jpg" width="300" alt="Entrada Image"> | <img src="images/case49/output.jpg" width="300" alt="Saída Result"> |
+| <img src="images/case49/input.jpg" width="300" alt="Input Image"> | <img src="images/case49/output.jpg" width="300" alt="Output Result"> |
 
-**Entrada:** Need to upload a reference image
+**Input:** Need to upload a reference image
 
 **Prompt (em inglês):**
 
@@ -956,11 +956,11 @@ extract the [samurai] and put transparent background
 <!-- Case 50: Outpainting / Checkerboard Repair (by @bwabbage) -->
 ### Caso 50: [Image Outpainting Repair](https://x.com/bwabbage/status/1962903212937130450)（by [@bwabbage](https://x.com/bwabbage)）
 
-| Entrada | Saída |
+| Input | Output |
 |:---:|:---:|
-| <img src="images/case50/input.jpg" width="300" alt="Entrada Image"> | <img src="images/case50/output.jpg" width="300" alt="Saída Result"> |
+| <img src="images/case50/input.jpg" width="300" alt="Input Image"> | <img src="images/case50/output.jpg" width="300" alt="Output Result"> |
 
-**Entrada:** Need to upload an image containing transparent checkerboard areas
+**Input:** Need to upload an image containing transparent checkerboard areas
 
 **Prompt (em inglês):**
 
@@ -974,11 +974,11 @@ Repair the checkerboard (transparent) parts of the image and restore a complete,
 
 ### Caso 51: [Ancient Map → Historical Scene Photo](https://x.com/levelsio/status/1961595333034598487)（by [@levelsio](https://x.com/levelsio)）
 
-| Entrada | Saída |
+| Input | Output |
 |:---:|:---:|
-| <img src="images/case51/input.jpg" width="300" alt="Entrada Image"> | <img src="images/case51/output.jpg" width="300" alt="Saída Result"> |
+| <img src="images/case51/input.jpg" width="300" alt="Input Image"> | <img src="images/case51/output.jpg" width="300" alt="Output Result"> |
 
-**Entrada:** Need to upload a historical reference image
+**Input:** Need to upload a historical reference image
 
 **Prompt (em inglês):**
 
@@ -989,11 +989,11 @@ full colour photograph. New Amsterdam in 1660. make sure it's full modern colors
 <!-- Case 52: Fashion Moodboard Collage (by @tetumemo) -->
 ### Caso 52: [Fashion Moodboard Collage](https://x.com/tetumemo/status/1962480699904282861)（by [@tetumemo](https://x.com/tetumemo)）
 
-| Entrada | Saída |
+| Input | Output |
 |:---:|:---:|
-| <img src="images/case52/input.jpg" width="300" alt="Entrada Image"> | <img src="images/case52/output.jpg" width="300" alt="Saída Result"> |
+| <img src="images/case52/input.jpg" width="300" alt="Input Image"> | <img src="images/case52/output.jpg" width="300" alt="Output Result"> |
 
-**Entrada:** Need to upload a reference image
+**Input:** Need to upload a reference image
 
 **Prompt (em inglês):**
 
@@ -1004,9 +1004,9 @@ A fashion mood board collage. Surround a portrait with cutouts of the individual
 <!-- Case 53: Cute, Premium Product Photo (by @azed_ai) -->
 ### Caso 53: [Delicate Cute Product Photo](https://x.com/azed_ai/status/1962878353784066342)（by [@azed_ai](https://x.com/azed_ai)）
 
-| Saída |
+| Output |
 |:---:|
-| <img src="images/case53/output.jpg" width="300" alt="Saída Result"> |
+| <img src="images/case53/output.jpg" width="300" alt="Output Result"> |
 
 **Prompt (em inglês):**
 
@@ -1020,11 +1020,11 @@ A high-resolution advertising photograph of a realistic, miniature [PRODUCT] hel
 <!-- Case 54: Place an Anime Statue in Reality (by @riddi0908) -->
 ### Caso 54: [Place Anime Statue in Real Life](https://x.com/riddi0908/status/1963758463135412699)（by [@riddi0908](https://x.com/riddi0908)）
 
-| Entrada | Saída |
+| Input | Output |
 |:---:|:---:|
-| <img src="images/case54/input.jpg" width="300" alt="Entrada Image"> | <img src="images/case54/output.jpg" width="300" alt="Saída Result"> |
+| <img src="images/case54/input.jpg" width="300" alt="Input Image"> | <img src="images/case54/output.jpg" width="300" alt="Output Result"> |
 
-**Entrada:** Need to upload a reference image
+**Input:** Need to upload a reference image
 
 **Prompt (em inglês):**
 
@@ -1035,11 +1035,11 @@ A realistic photographic work. A gigantic statue of this person has been placed 
 <!-- Case 55: Itasha (Anime-Themed Car) Creation (by @riddi0908) -->
 ### Caso 55: [Create an Itasha Car](https://x.com/riddi0908/status/1963422536819249239)（by [@riddi0908](https://x.com/riddi0908)）
 
-| Entrada | Saída |
+| Input | Output |
 |:---:|:---:|
-| <img src="images/case55/input.jpg" width="300" alt="Entrada Image"> | <img src="images/case55/output.jpg" width="300" alt="Saída Result"> |
+| <img src="images/case55/input.jpg" width="300" alt="Input Image"> | <img src="images/case55/output.jpg" width="300" alt="Output Result"> |
 
-**Entrada:** Need to upload a reference image
+**Input:** Need to upload a reference image
 
 **Prompt (em inglês):**
 
@@ -1050,20 +1050,20 @@ Create a professional photograph of a sporty car with anime-style character artw
 <!-- Case 56: Manga Composition (by @namaedousiyoka) -->
 ### Caso 56: [Manga Composition](https://x.com/namaedousiyoka/status/1962461786181161340)（by [@namaedousiyoka](https://x.com/namaedousiyoka)）
 
-| Entrada | Saída |
+| Input | Output |
 |:---:|:---:|
-| <img src="images/case56/input.jpg" width="200" alt="Character Reference"> <img src="images/case56/input2.jpg" width="200" alt="Scene Composition Reference"> | <img src="images/case56/output.jpg" width="300" alt="Saída Result"> |
+| <img src="images/case56/input.jpg" width="200" alt="Character Reference"> <img src="images/case56/input2.jpg" width="200" alt="Scene Composition Reference"> | <img src="images/case56/output.jpg" width="300" alt="Output Result"> |
 
-**Entrada:** Need to upload a character reference image and a scene composition reference image
+**Input:** Need to upload a character reference image and a scene composition reference image
 
 <!-- Case 57: Manga Style Conversion (by @nobisiro_2023) -->
 ### Caso 57: [Manga Style Conversion](https://x.com/nobisiro_2023/status/1961231347986698371)（by [@nobisiro_2023](https://x.com/nobisiro_2023)）
 
-| Entrada | Saída |
+| Input | Output |
 |:---:|:---:|
-| <img src="images/case57/input.jpg" width="300" alt="Entrada Image"> | <img src="images/case57/output.jpg" width="300" alt="Saída Result"> |
+| <img src="images/case57/input.jpg" width="300" alt="Input Image"> | <img src="images/case57/output.jpg" width="300" alt="Output Result"> |
 
-**Entrada:** Need to upload a reference image
+**Input:** Need to upload a reference image
 
 **Prompt (em inglês):**
 
@@ -1074,11 +1074,11 @@ Convert the input photo into a black-and-white manga-style line drawing.
 <!-- Case 58: Isometric Holographic Wireframe (by @tetumemo) -->
 ### Caso 58: [Isometric Holographic Wireframe](https://x.com/tetumemo/status/1964574226155000312)（by [@tetumemo](https://x.com/tetumemo)）
 
-| Entrada | Saída |
+| Input | Output |
 |:---:|:---:|
-| <img src="images/case58/input.jpg" width="300" alt="Entrada Image"> | <img src="images/case58/output.jpg" width="300" alt="Saída Result"> |
+| <img src="images/case58/input.jpg" width="300" alt="Input Image"> | <img src="images/case58/output.jpg" width="300" alt="Output Result"> |
 
-**Entrada:** Need to upload a line-art reference image
+**Input:** Need to upload a line-art reference image
 
 **Prompt (em inglês):**
 
@@ -1089,11 +1089,11 @@ Based on the uploaded image, convert it into a holographic depiction using wiref
 <!-- Case 59: Minecraft-Style Scene (by @tetumemo) -->
 ### Caso 59: [Minecraft-Style Scene Generation](https://x.com/tetumemo/status/1964860047705743700)（by [@tetumemo](https://x.com/tetumemo)）
 
-| Entrada | Saída |
+| Input | Output |
 |:---:|:---:|
-| <img src="images/case59/input.jpg" width="300" alt="Entrada Image"> | <img src="images/case59/output.jpg" width="300" alt="Saída Result"> |
+| <img src="images/case59/input.jpg" width="300" alt="Input Image"> | <img src="images/case59/output.jpg" width="300" alt="Output Result"> |
 
-**Entrada:** Need to upload a Google Maps reference image
+**Input:** Need to upload a Google Maps reference image
 
 **Prompt (em inglês):**
 
@@ -1108,7 +1108,7 @@ Using this location, create an isometric HD-2D Minecraft-style image of the land
 |:---:|
 | <img src="images/case60/case.jpg" width="300" alt="Example"> |
 
-**Entrada:** Need to upload a reference image and a material-sphere image
+**Input:** Need to upload a reference image and a material-sphere image
 
 **Prompt (em inglês):**
 
@@ -1122,11 +1122,11 @@ Apply the material from Image 2 to the logo in Image 1, present it as a 3D objec
 
 ### Caso 61: [Floor Plan 3D Render](https://x.com/op7418/status/1961329148271513695)（by [@op7418](https://x.com/op7418)）
 
-| Entrada | Saída |
+| Input | Output |
 |:---:|:---:|
-| <img src="images/case61/input.jpg" width="300" alt="Entrada Image"> | <img src="images/case61/output.jpg" width="300" alt="Saída Result"> |
+| <img src="images/case61/input.jpg" width="300" alt="Input Image"> | <img src="images/case61/output.jpg" width="300" alt="Output Result"> |
 
-**Entrada:** Need to upload a floor-plan reference image
+**Input:** Need to upload a floor-plan reference image
 
 **Prompt (em inglês):**
 
@@ -1137,11 +1137,11 @@ Convert this residential floor plan into an isometric, photo-realistic 3D render
 <!-- Case 62: Reset Camera Parameters (by @hckinz) -->
 ### Caso 62: [Reset Camera Parameters](https://x.com/hckinz/status/1962803203063586895)（by [@hckinz](https://x.com/hckinz)）
 
-| Entrada | Saída |
+| Input | Output |
 |:---:|:---:|
-| <img src="images/case62/input.jpg" width="300" alt="Entrada Image"> | <img src="images/case62/output.jpg" width="300" alt="Saída Result"> |
+| <img src="images/case62/input.jpg" width="300" alt="Input Image"> | <img src="images/case62/output.jpg" width="300" alt="Output Result"> |
 
-**Entrada:** Need to upload a reference image
+**Input:** Need to upload a reference image
 
 **Prompt (em inglês):**
 
@@ -1155,11 +1155,11 @@ RAW-ISO [100] - [F2.8-1/200 24mm] settings
 <!-- Case 63: Make an ID Photo (by @songguoxiansen) -->
 ### Caso 63: [Create an ID Photo](https://x.com/songguoxiansen/status/1963602241610551609)（by [@songguoxiansen](https://x.com/songguoxiansen)）
 
-| Entrada | Saída |
+| Input | Output |
 |:---:|:---:|
-| <img src="images/case63/input.jpg" width="300" alt="Entrada Image"> | <img src="images/case63/output.jpg" width="300" alt="Saída Result"> |
+| <img src="images/case63/input.jpg" width="300" alt="Input Image"> | <img src="images/case63/output.jpg" width="300" alt="Output Result"> |
 
-**Entrada:** Need to upload a portrait reference image
+**Input:** Need to upload a portrait reference image
 
 **Prompt (em inglês):**
 
@@ -1174,11 +1174,11 @@ Crop the head and create a 2-inch ID photo with:
 <!-- Case 64: Scene A6 Folding Card (by @Gdgtify) -->
 ### Caso 64: [Scene A6 Folding Card](https://x.com/Gdgtify/status/19649795223709287319)（by [@Gdgtify](https://x.com/Gdgtify)）
 
-| Entrada | Saída |
+| Input | Output |
 |:---:|:---:|
-| <img src="images/case64/input.jpg" width="300" alt="Entrada Image"> | <img src="images/case64/output.jpg" width="300" alt="Saída Result"> |
+| <img src="images/case64/input.jpg" width="300" alt="Input Image"> | <img src="images/case64/output.jpg" width="300" alt="Output Result"> |
 
-**Entrada:** Need to upload a reference image
+**Input:** Need to upload a reference image
 
 **Prompt (em inglês):**
 
@@ -1193,7 +1193,7 @@ Draw an A6 folding card: when opened, it reveals a complete 3D spherical tiny ho
 |:---:|
 | <img src="images/case65/case.jpg" width="300" alt="Example"> |
 
-**Entrada:** Need to upload a reference image
+**Input:** Need to upload a reference image
 
 **Prompt (em inglês):**
 
@@ -1217,11 +1217,11 @@ A photo of a bedroom split down the middle: the left side is 2018 and the right 
 <!-- Case 67: Jewelry Collection Design (by @Gdgtify) -->
 ### Caso 67: [Jewelry Collection Design](https://x.com/Gdgtify/status/1964419331342909777)（by [@Gdgtify](https://x.com/Gdgtify)）
 
-| Entrada | Saída |
+| Input | Output |
 |:---:|:---:|
-| <img src="images/case67/input.jpg" width="300" alt="Entrada Image"> | <img src="images/case67/output.jpg" width="300" alt="Saída Result"> |
+| <img src="images/case67/input.jpg" width="300" alt="Input Image"> | <img src="images/case67/output.jpg" width="300" alt="Output Result"> |
 
-**Entrada:** Need to upload a reference image
+**Input:** Need to upload a reference image
 
 **Prompt (em inglês):**
 
@@ -1232,11 +1232,11 @@ Transform this image into a 5-piece jewelry collection.
 <!-- Case 68: Merchandise Design (by @0xFramer) -->
 ### Caso 68: [Merchandise Design](https://x.com/0xFramer/status/1964992117324886349)（by [@0xFramer](https://x.com/0xFramer)）
 
-| Entrada | Saída |
+| Input | Output |
 |:---:|:---:|
-| <img src="images/case68/input.jpg" width="300" alt="Entrada Image"> | <img src="images/case68/output.jpg" width="300" alt="Saída Result"> |
+| <img src="images/case68/input.jpg" width="300" alt="Input Image"> | <img src="images/case68/output.jpg" width="300" alt="Output Result"> |
 
-**Entrada:** Need to upload a reference image
+**Input:** Need to upload a reference image
 
 **Prompt (em inglês):**
 
@@ -1247,9 +1247,9 @@ Create merchandise using this character image.
 <!-- Example 69: Model Holographic Projection (by @UNIBRACITY) -->
 ### Example 69: [Model Holographic Projection](https://x.com/UNIBRACITY/status/1966122746288681461) (by [@UNIBRACITY](https://x.com/UNIBRACITY))
 
-| Saída |
+| Output |
 |:---:|
-|<img src="images/case69/output.png" width="300" alt="Saída result"> |
+|<img src="images/case69/output.png" width="300" alt="Output result"> |
 
 **Prompt (em inglês):**
 
@@ -1279,7 +1279,7 @@ Camera: 85–100 mm lens, 3/4 hero angle, eye-level, f/11–f/16, ISO100, tripod
 Lighting: desk softly illuminated; holographic figure defined only by volumetric light.  
 Background: seamless black studio with subtle reflections.  
 
-Saída: 4:5, 2048×2560.  
+Output: 4:5, 2048×2560.  
 
 Negative: text-free, watermark-free, logo-free, brand-free, copyrighted characters, franchise IP, trademarked designs, resin, PVC, physical statue, opaque surfaces, toy gloss, beams, scanlines, dots, distortion, extra digits.  
 Sampling: deterministic, seed=12345, temperature=0.
@@ -1291,11 +1291,11 @@ Sampling: deterministic, seed=12345, temperature=0.
 <!-- Example 70: Giant Figure Scaffolding (by @songguoxiansen) -->
 ### Example 70: [Giant Figure Scaffolding](https://x.com/songguoxiansen/status/1965960484684968234) (by [@songguoxiansen](https://x.com/songguoxiansen))
 
-| Entrada | Saída |
+| Input | Output |
 |:---:|:---:|
-| <img src="images/case70/input.png" width="300" alt="Entrada image"> | <img src="images/case70/output.png" width="300" alt="Saída result"> |
+| <img src="images/case70/input.png" width="300" alt="Input image"> | <img src="images/case70/output.png" width="300" alt="Output result"> |
 
-**Entrada:** A reference photo of a person must be uploaded.
+**Input:** A reference photo of a person must be uploaded.
 
 **Prompt (em inglês):**
 
@@ -1309,11 +1309,11 @@ and a bright clear blue sky. The overall details are rich, presenting a photo-re
 <!-- Example 71: Building Extraction from Remote Sensing Image (by @lehua555) -->
 ### Example 71: [Building Extraction from Remote Sensing Image](https://x.com/lehua555/status/1966124995949863310) (by [@lehua555](https://x.com/lehua555))
 
-| Entrada | Saída |
+| Input | Output |
 |:---:|:---:|
-| <img src="images/case71/input.png" width="300" alt="Entrada image"> | <img src="images/case71/output.png" width="300" alt="Saída result"> |
+| <img src="images/case71/input.png" width="300" alt="Input image"> | <img src="images/case71/output.png" width="300" alt="Output result"> |
 
-**Entrada:** A remote sensing image must be uploaded.
+**Input:** A remote sensing image must be uploaded.
 
 **Prompt (em inglês):**
 
@@ -1324,11 +1324,11 @@ Remove everything in the image except the buildings.
 <!-- Example 72: Component Extraction (by @tetumemo) -->
 ### Example 72: [Component Extraction](https://x.com/tetumemo/status/1965721026849018141) (by [@tetumemo](https://x.com/tetumemo))
 
-| Entrada | Saída |
+| Input | Output |
 |:---:|:---:|
-| <img src="images/case72/input.png" width="300" alt="Entrada image"> | <img src="images/case72/output.png" width="300" alt="Saída result"> |
+| <img src="images/case72/input.png" width="300" alt="Input image"> | <img src="images/case72/output.png" width="300" alt="Output result"> |
 
-**Entrada:** An image of a model must be uploaded.
+**Input:** An image of a model must be uploaded.
 
 **Prompt (em inglês):**
 
@@ -1339,11 +1339,11 @@ Cut out each component and create a model sheet that retains the hologram.
 <!-- Example 73: Remove Burger Ingredients (by @bind_lux) -->
 ### Example 73: [Remove Burger Ingredients](https://x.com/bind_lux/status/1965869157125402654) (by [@bind_lux](https://x.com/bind_lux), case provided by [@jeanlucaslima](https://github.com/jeanlucaslima))
 
-| Entrada | Saída |
+| Input | Output |
 |:---:|:---:|
-| <img src="images/case73/input.jpg" width="300" alt="Entrada image"> | <img src="images/case73/output.jpg" width="300" alt="Saída result"> |
+| <img src="images/case73/input.jpg" width="300" alt="Input image"> | <img src="images/case73/output.jpg" width="300" alt="Output result"> |
 
-**Entrada:** An image of a burger must be uploaded.
+**Input:** An image of a burger must be uploaded.
 
 **Prompt (em inglês):**
 
@@ -1354,11 +1354,11 @@ Remove all the ingredients from the burger and keep only the top and bottom buns
 <!-- Example 74: High-Resolution Image Restoration (by @op7418) -->
 ### Example 74: [High-Resolution Image Restoration](https://x.com/op7418/status/1960540798573011209) (by [@op7418](https://x.com/op7418))
 
-| Entrada | Saída |
+| Input | Output |
 |:---:|:---:|
-| <img src="images/case74/input.png" width="300" alt="Entrada image"> | <img src="images/case74/output.png" width="300" alt="Saída result"> |
+| <img src="images/case74/input.png" width="300" alt="Input image"> | <img src="images/case74/output.png" width="300" alt="Output result"> |
 
-**Entrada:** A reference image must be uploaded.
+**Input:** A reference image must be uploaded.
 
 **Prompt (em inglês):**
 
@@ -1369,11 +1369,11 @@ Enhance the resolution of this old image and add the appropriate texture details
 <!-- Example 75: Generate Miniature Scene from Image (by @techhalla) -->
 ### Example 75: [Generate Miniature Scene from Image](https://x.com/techhalla/status/1962088250199163285) (by [@techhalla](https://x.com/techhalla))
 
-| Entrada | Saída |
+| Input | Output |
 |:---:|:---:|
-| <img src="images/case75/input.png" width="300" alt="Entrada image"> | <img src="images/case75/output.png" width="300" alt="Saída result"> |
+| <img src="images/case75/input.png" width="300" alt="Input image"> | <img src="images/case75/output.png" width="300" alt="Output result"> |
 
-**Entrada:** A reference image must be uploaded.
+**Input:** A reference image must be uploaded.
 
 **Prompt (em inglês):**
 
@@ -1384,9 +1384,9 @@ Convert the image to isometric view
 <!-- Example 76: Educational Comic (by @op7418) -->
 ### Example 76: [Educational Comic](https://x.com/op7418/status/1961811274683310110) (by [@op7418](https://x.com/op7418))
 
-| Saída |
+| Output |
 |:---:|
-| <img src="images/case76/output.png" width="300" alt="Saída result"> |
+| <img src="images/case76/output.png" width="300" alt="Output result"> |
 
 **Prompt (em inglês):**
 
@@ -1397,11 +1397,11 @@ Help me generate multiple 16:9 doodle-style images to explain the concept of "fu
 <!-- Example 77: Custom Character Emoji Pack Generation (by @vista8) -->
 ### Example 77: [Custom Character Emoji Pack Generation](https://x.com/vista8/status/1966164427243458977) (by [@vista8](https://x.com/vista8))
 
-| Entrada | Saída |
+| Input | Output |
 |:---:|:---:|
-| <img src="images/case77/input.png" width="300" alt="Entrada image"> | <img src="images/case77/output.png" width="300" alt="Saída result"> |
+| <img src="images/case77/input.png" width="300" alt="Input image"> | <img src="images/case77/output.png" width="300" alt="Output result"> |
 
-**Entrada:** A reference image must be uploaded.
+**Input:** A reference image must be uploaded.
 
 **Prompt (em inglês):**
 
@@ -1415,11 +1415,11 @@ Using the character from Image 2, generate [x] emoji stickers based on various p
 <!-- Example 78: Restore Partially Eaten Food (by @googlejapan) -->
 ### Example 78: [Restore Partially Eaten Food](https://x.com/googlejapan/status/1965762180688584916) (by [@googlejapan](https://x.com/googlejapan))
 
-| Entrada | Saída |
+| Input | Output |
 |:---:|:---:|
-| <img src="images/case78/input.png" width="300" alt="Entrada image"> | <img src="images/case78/output.png" width="300" alt="Saída result"> |
+| <img src="images/case78/input.png" width="300" alt="Input image"> | <img src="images/case78/output.png" width="300" alt="Output result"> |
 
-**Entrada:** A reference image must be uploaded.
+**Input:** A reference image must be uploaded.
 
 **Prompt (em inglês):**
 
@@ -1433,11 +1433,11 @@ Restore this half-eaten [XX] back to its original uneaten state.
 <!-- Example 79: Fighting Game Interface Creation (by @NanoBanana_labs) -->
 ### Example 79: [Fighting Game Interface Creation](https://x.com/NanoBanana_labs/status/1965827209534517654) (by [@NanoBanana_labs](https://x.com/NanoBanana_labs))
 
-| Entrada | Saída |
+| Input | Output |
 |:---:|:---:|
-| <img src="images/case79/input.png" width="300" alt="Entrada image"> | <img src="images/case79/output.png" width="300" alt="Saída result"> |
+| <img src="images/case79/input.png" width="300" alt="Input image"> | <img src="images/case79/output.png" width="300" alt="Output result"> |
 
-**Entrada:** A reference image must be uploaded.
+**Input:** A reference image must be uploaded.
 
 **Prompt (em inglês):**
 
@@ -1448,11 +1448,11 @@ Create a mid motion actionscene where both subject are in focuswith aThree-Quart
 <!-- Example 80: Model Cross-Section (by @old_pgmrs_will) -->
 ### Example 80: [Model Cross-Section](https://x.com/old_pgmrs_will/status/1966053092371444029) (by [@old_pgmrs_will](https://x.com/old_pgmrs_will))
 
-| Entrada | Saída |
+| Input | Output |
 |:---:|:---:|
-| <img src="images/case80/input.png" width="300" alt="Entrada image"> | <img src="images/case80/output.png" width="300" alt="Saída result"> |
+| <img src="images/case80/input.png" width="300" alt="Input image"> | <img src="images/case80/output.png" width="300" alt="Output result"> |
 
-**Entrada:** A reference image must be uploaded.
+**Input:** A reference image must be uploaded.
 
 **Prompt (em inglês):**
 
@@ -1463,11 +1463,11 @@ Create a cutaway visualization of this car, show exterior intact on one side, an
 <!-- Example 81: Pirate Wanted Poster (by @AI_Kei75) -->
 ### Example 81: [Pirate Wanted Poster](https://x.com/old_pgmrs_will/status/1966053092371444029) (by [@AI_Kei75](https://x.com/AI_Kei75))
 
-| Entrada | Saída |
+| Input | Output |
 |:---:|:---:|
-| <img src="images/case81/input.png" width="300" alt="Entrada image"> | <img src="images/case81/output.png" width="300" alt="Saída result"> |
+| <img src="images/case81/input.png" width="300" alt="Input image"> | <img src="images/case81/output.png" width="300" alt="Output result"> |
 
-**Entrada:** A reference image must be uploaded.
+**Input:** A reference image must be uploaded.
 
 **Prompt (em inglês):**
 
@@ -1483,11 +1483,11 @@ Below the bounty amount, write the crime in small letters. Use a fictitious lang
 <!-- Example 82: Merchandise Display Shelf (by @tokyo_Valentine) -->
 ### Example 82: [Merchandise Display Shelf](https://x.com/tokyo_Valentine/status/1966888938838298727) (by [@tokyo_Valentine](https://x.com/tokyo_Valentine))
 
-| Entrada | Saída |
+| Input | Output |
 |:---:|:---:|
-| <img src="images/case82/input.png" width="300" alt="Entrada image"> | <img src="images/case82/output.png" width="300" alt="Saída result"> |
+| <img src="images/case82/input.png" width="300" alt="Input image"> | <img src="images/case82/output.png" width="300" alt="Output result"> |
 
-**Entrada:** A reference image must be uploaded.
+**Input:** A reference image must be uploaded.
 
 **Prompt (em inglês):**
 
@@ -1527,11 +1527,11 @@ Resolution: 4K, 4000px: 3000px
 <!-- Example 83: Comic Convention Booth (by @tokyo_Valentine) -->
 ### Example 83: [Comic Convention Booth](https://x.com/tokyo_Valentine/status/1967174466636792287) (by [@tokyo_Valentine](https://x.com/tokyo_Valentine))
 
-| Entrada | Saída |
+| Input | Output |
 |:---:|:---:|
-| <img src="images/case83/input.png" width="300" alt="Entrada image"> | <img src="images/case83/output.png" width="300" alt="Saída result"> |
+| <img src="images/case83/input.png" width="300" alt="Input image"> | <img src="images/case83/output.png" width="300" alt="Output result"> |
 
-**Entrada:** A reference image must be uploaded.
+**Input:** A reference image must be uploaded.
 
 **Prompt (em inglês):**
 
@@ -1578,11 +1578,11 @@ Photorealistic, 4K (4000px x 3000px)
 <!-- Example 84: Line Art to Doodle Drawing (by @hAru_mAki_ch) -->
 ### Example 84: [Line Art to Doodle Drawing](https://x.com/hAru_mAki_ch/status/1966877088365113722) (by [@hAru_mAki_ch](https://x.com/hAru_mAki_ch))
 
-| Entrada | Saída |
+| Input | Output |
 |:---:|:---:|
-| <img src="images/case84/input.png" width="300" alt="Entrada image"> | <img src="images/case84/output.png" width="300" alt="Saída result"> |
+| <img src="images/case84/input.png" width="300" alt="Input image"> | <img src="images/case84/output.png" width="300" alt="Output result"> |
 
-**Entrada:** A reference image must be uploaded.
+**Input:** A reference image must be uploaded.
 
 **Prompt (em inglês):**
 
@@ -1595,9 +1595,9 @@ Make the uploaded picture book look as if it was drawn by a five-year-old child.
 
 | Example |
 |:---:|
-| <img src="images/case85/output.png" width="300" alt="Saída result"> |
+| <img src="images/case85/output.png" width="300" alt="Output result"> |
 
-**Entrada:** A reference image must be uploaded.
+**Input:** A reference image must be uploaded.
 
 **Prompt (em inglês):**
 
@@ -1654,9 +1654,9 @@ Visitors are immersed in the space itself, and even in reproduction, SSIM will r
 
 | Example |
 |:---:|
-| <img src="images/case86/output.png" width="300" alt="Saída result"> |
+| <img src="images/case86/output.png" width="300" alt="Output result"> |
 
-**Entrada:** A reference image must be uploaded.
+**Input:** A reference image must be uploaded.
 
 **Prompt (em inglês):**
 
@@ -1670,9 +1670,9 @@ Generate a dark gothic tarot card featuring me from this image. Include [“AI A
 <!-- Example 87: Black and White Evolution Chart (by @ZHO_ZHO_ZHO) -->
 ### Example 87: [Black and White Evolution Chart](https://x.com/ZHO_ZHO_ZHO/status/1965816445008548213) (by [@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO))
 
-| Saída |
+| Output |
 |:---:|
-| <img src="images/case87/output.png" width="300" alt="Saída result"> |
+| <img src="images/case87/output.png" width="300" alt="Output result"> |
 
 **Prompt (em inglês):**
 
@@ -1686,9 +1686,9 @@ showing the evolution from the earliest apes to humans and finally into a banana
 
 | Example |
 |:---:|
-| <img src="images/case88/output.png" width="300" alt="Saída result"> |
+| <img src="images/case88/output.png" width="300" alt="Output result"> |
 
-**Entrada:** A reference image must be uploaded.
+**Input:** A reference image must be uploaded.
 
 **Prompt (em inglês):**
 
@@ -1699,9 +1699,9 @@ A 1/7 scale commercialized collectible figure of the character from the photo, c
 <!-- Example 89: Miniature Store (by @NanoBanana_labs) -->
 ### Example 89: [Miniature Store](https://x.com/NanoBanana_labs/status/1966791308321910922) (by [@NanoBanana_labs](https://x.com/NanoBanana_labs))
 
-| Saída |
+| Output |
 |:---:|
-| <img src="images/case89/output.png" width="300" alt="Saída result"> |
+| <img src="images/case89/output.png" width="300" alt="Output result"> |
 
 **Prompt (em inglês):**
 
@@ -1715,11 +1715,11 @@ Tiny diorama shop for [BRAND]. Roof made of oversized [PRODUCT], big [BRAND] log
 <!-- Example 90: Become a Vtuber (by @AI_Kei75) -->
 ### Example 90: [Become a Vtuber](https://x.com/AI_Kei75/status/1967490141578236329) (by [@AI_Kei75](https://x.com/AI_Kei75))
 
-| Entrada | Saída |
+| Input | Output |
 |:---:|:---:|
-| <img src="images/case90/input.png" width="300" alt="Entrada image"> | <img src="images/case90/output.png" width="300" alt="Saída result"> |
+| <img src="images/case90/input.png" width="300" alt="Input image"> | <img src="images/case90/output.png" width="300" alt="Output result"> |
 
-**Entrada:** A reference image must be uploaded.
+**Input:** A reference image must be uploaded.
 
 **Prompt (em inglês):**
 
@@ -1738,11 +1738,11 @@ The aspect ratio of the generated image is independent of that of the original i
 <!-- Example 91: Train Station Movie Poster (by @AI_Kei75) -->
 ### Example 91: [Train Station Movie Poster](https://x.com/AI_Kei75/status/1967498630467625127) (by [@AI_Kei75](https://x.com/AI_Kei75))
 
-| Entrada | Saída |
+| Input | Output |
 |:---:|:---:|
-| <img src="images/case91/input.png" width="300" alt="Entrada image"> | <img src="images/case91/output.png" width="300" alt="Saída result"> |
+| <img src="images/case91/input.png" width="300" alt="Input image"> | <img src="images/case91/output.png" width="300" alt="Output result"> |
 
-**Entrada:** A reference image must be uploaded.
+**Input:** A reference image must be uploaded.
 
 **Prompt (em inglês):**
 
